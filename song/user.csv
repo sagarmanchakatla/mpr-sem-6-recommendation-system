@@ -1,0 +1,17 @@
+id,age,weight,height,first_name,last_name,date_of_birth,gender,genre,avatar,fav_artist,latitude,longitude,invites,friends,curr_mood
+3da717d6-13bc-4fdb-9004-3fc4937813d2,20,50,170,Hitesh,Manchakatla,2005-03-07,male,Hip Hop-Pop,,"Drake-Kanye West-Adele-Emimen-Kendrick Lamar ",,,,,
+74266b85-91af-4c9f-9138-216f4ff06b1d,22,65,150,Rahul,Yadav,2003-10-26,male,Lofi-Hip Hop-Peaceful,,Joji-Nujabes-Yiruma,19.0644212,72.8359002,"c8d8e844-38c4-40cd-8688-16001b47e8e0
+",,
+91cacd43-a2f1-49e8-8fe3-6ac2d66e61e1,13,92,172,"John ",Doe,2012-03-03,male,Hip Hop-Pop,,Drake-Kanye West-Eminem -Beyoncé,,,,,
+a4643da1-a947-48ef-873d-fafc645c7f10,23,45,44,Param,"Wagwani ",2002-03-22,male,Lofi-Peaceful-Romance-Pop,,Drake-Emimen,,,,,
+ac9218f5-bb33-46b3-afeb-1e18d5de2513,21,65,150,Rahul Yadav,,2004-10-27,male,Romance-Lofi-Peaceful,ac9218f5-bb33-46b3-afeb-1e18d5de2513,John Legend-Sam Smith-Yiruma,19.2028574,72.8291212,"74266b85-91af-4c9f-9138-216f4ff06b1d
+",,
+af307820-a4aa-4b01-9205-e22e8d9f7a27,20,35,150,"Siddhi ","Mehta ",2005-03-06,female,Lofi-Peaceful,af307820-a4aa-4b01-9205-e22e8d9f7a27.jpeg,Joji-Eminem-Ludovico Einaudi,,,,,
+c7bdec22-7e95-456a-be66-ed743bdc304e,0,100,190,"Ratnakar ","Manchakatla ",2025-03-11,male,Pop-Hip Hop,c7bdec22-7e95-456a-be66-ed743bdc304e,Adele-Ed Sheeran-Drake,18.9935706,72.8418635,,,happy
+c8d8e844-38c4-40cd-8688-16001b47e8e0,11,100,180,"Karthik ","Katukam ",2014-03-01,male,Hip Hop-Pop,,"Drake-Kanye West-Eminem -Kendrick Lamar ",18.9936274,72.8421053,"74266b85-91af-4c9f-9138-216f4ff06b1d
+",,
+d6776fda-2f6e-4105-88d9-85eebca93f31,0,68,62,CHHAIBER YADAV,,2025-03-07,male,Lofi-Peaceful-Hip Hop,,Joji-Enya-Yiruma,19.2028562,72.8291282,"ac9218f5-bb33-46b3-afeb-1e18d5de2513
+",,
+d7e276de-005f-4788-9329-a2acd484d4f9,20,39,165,Siddhi,Mehta,2005-03-09,female,Romance-Lofi-Peaceful-Hip Hop-Pop,,Ed Sheeran-Taylor Swift,,,,,
+f540bf1e-1074-45c5-874d-c6524660bf80,21,82,180,"Ravindra ","Manchakatla ",2004-03-03,male,Hip Hop-Peaceful-Romance,,Alicia Keys-Sam Smith-Drake-Yiruma,18.994758,72.8422357,,,surprised
+f57f191a-973c-47e0-b57f-4a3422e2a128,0,50,160,Dishant,Manchakatla,2025-03-07,male,Hip Hop-Pop,,Drake-Kanye West-Adele-Eminem,,,,,
