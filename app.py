@@ -1,28 +1,3 @@
-# from flask import Flask, request, jsonify, render_template
-# import pandas as pd
-# import numpy as np
-# from googleapiclient.discovery import build
-# from flask_cors import CORS
-# import random
-
-# app = Flask(__name__)
-# CORS(app)
-
-# Load dataset
-# df = pd.read_csv("spotify-data.csv")
-
-# df = pd.read_csv('music_records.csv')
-
-# df = pd.read_csv('songs_dataset_with_thumbnails.csv')
-
-# YouTube Data API key
-# API_KEY = 'AIzaSyBe6hKp5D_VNizwr1BvhDxpbbH4IuJWVZ4'
-# API_KEY = 'AIzaSyC7ZQW0R4iJ2rNM-DrHNC01wAWEgHLHlBc'
-# API_KEY = 'AIzaSyAcegV_mEWr0_p_vLIymgOkOi8BcV3qLY4'
-
-# API_KEY = 'AIzaSyA6_UtbwToESxHuPJLno1ESx_2Huwk5RzQ'
-# youtube = build('youtube', 'v3', developerKey=API_KEY)
-
 from flask import Flask, request, jsonify, render_template
 import pandas as pd
 import numpy as np
@@ -36,10 +11,6 @@ CORS(app)
 
 # Load dataset
 df = pd.read_csv('songs_dataset_with_filled_thumbnails.csv')
-
-# YouTube Data API key
-API_KEY = 'AIzaSyA6_UtbwToESxHuPJLno1ESx_2Huwk5RzQ'
-youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_mood_criteria(mood):
     mood_map = {
